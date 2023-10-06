@@ -11,9 +11,6 @@ This Python project focuses on optimizing energy consumption and channel allocat
 - [Particle Swarm Optimization](#particle-swarm-optimization)
 - [Channel Optimization](#channel-optimization)
 - [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
